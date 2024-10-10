@@ -1,4 +1,4 @@
-# 🇹🇷 Midasbuy Hesap Kontrolcüsü | 🇬🇧 Midasbuy Account Checker
+# :tr: Midasbuy Hesap Kontrolcüsü | 🇬🇧 Midasbuy Account Checker
 
 🇹🇷 Bu proje, Selenium WebDriver kullanarak Midasbuy hesaplarına otomatik giriş yapmayı sağlar. `midasbuy.txt` dosyasından e-posta ve şifre bilgilerini okur ve giriş denemeleri yapar. Başarılı ve başarısız girişleri ayrı dosyalara kaydeder.
 
