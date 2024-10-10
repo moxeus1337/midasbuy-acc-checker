@@ -1,1 +1,1 @@
-acc:pass
+email:pass
